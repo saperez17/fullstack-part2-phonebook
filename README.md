@@ -1,2 +1,2 @@
-# fullstack-part2-phonebook
+# fullstack-part1-anecdotes
 Created with CodeSandbox
